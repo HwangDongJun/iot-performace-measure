@@ -4,7 +4,7 @@
 
 ## 개요
 - 사용자 서비스를 위해 가전 IoT 디바이스의 응답 속도를 측정
-  - Smart light(Hue) control
+  - Smart light(Hue) control (./controller/hue_local_controller.py)
   - ...
   
 ## 측정을 위해 필요한 파일 (hue_info.ini)
